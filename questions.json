@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Which data structure uses LIFO (Last In, First Out) order?",
+        "options": ["A) Queue", "B) Stack", "C) Linked List", "D) Tree"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the time complexity of searching in a balanced binary search tree (BST)?",
+        "options": ["A) O(1)", "B) O(n)", "C) O(log n)", "D) O(n log n)"],
+        "answer": "C"
+    },
+    {
+        "question": "Which algorithm is used in Dijkstra’s shortest path algorithm?",
+        "options": ["A) Dynamic Programming", "B) Greedy Algorithm", "C) Divide and Conquer", "D) Backtracking"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the worst-case time complexity of Quicksort?",
+        "options": ["A) O(n log n)", "B) O(n)", "C) O(n^2)", "D) O(1)"],
+        "answer": "C"
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of artificial intelligence?",
+        "options": ["A) Learning", "B) Reasoning", "C) Manual Processing", "D) Problem Solving"],
+        "answer": "C"
+    },
+    {
+        "question": "Which data structure is best suited for implementing a priority queue?",
+        "options": ["A) Stack", "B) Linked List", "C) Heap", "D) Queue"],
+        "answer": "C"
+    },
+    {
+        "question": "Which algorithm is used for finding strongly connected components (SCC) in a directed graph?",
+        "options": ["A) Kruskal’s Algorithm", "B) Floyd-Warshall Algorithm", "C) Kosaraju’s Algorithm", "D) Bellman-Ford Algorithm"],
+        "answer": "C"
+    },
+    {
+        "question": "Which AI technique is used for learning from past experiences and improving automatically?",
+        "options": ["A) Expert Systems", "B) Machine Learning", "C) Genetic Algorithms", "D) Rule-Based Systems"],
+        "answer": "B"
+    },
+    {
+        "question": "Which sorting algorithm is **stable** and works well with nearly sorted data?",
+        "options": ["A) Selection Sort", "B) Merge Sort", "C) Bubble Sort", "D) Insertion Sort"],
+        "answer": "D"
+    },
+    {
+        "question": "Which data structure is used in **Breadth-First Search (BFS)**?",
+        "options": ["A) Stack", "B) Queue", "C) Hash Table", "D) Graph"],
+        "answer": "B"
+    }
+]
